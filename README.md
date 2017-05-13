@@ -1,2 +1,2 @@
 # hello-word
-this is git reposit
+这他妈的是什么鬼玩意
